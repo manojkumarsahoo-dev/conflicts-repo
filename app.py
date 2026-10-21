@@ -1,5 +1,5 @@
 #Define two numerical varriable
-num1 = 12
+num1 = 20
 num2 = 15
 #Calculate the sum
 total = num1+num2
