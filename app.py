@@ -1,4 +1,4 @@
-#Define two numerical varriable
+#Define two numerical variables
 num1 = 100
 num2 = 15
 #Calculate the sum
